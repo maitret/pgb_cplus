@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909882808688",
+    "firebase_url": "https://c-plus-crobss.firebaseio.com",
+    "project_id": "c-plus-crobss",
+    "storage_bucket": "c-plus-crobss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909882808688:android:23a6dba4cb338c13",
+        "android_client_info": {
+          "package_name": "com.crobss.cplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909882808688-2c4dfjufpvi3bt507tk3rhrdk0isrqas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnFPfS_Kg5OD16sTW6iaTz3BcRcTVmsrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909882808688-2c4dfjufpvi3bt507tk3rhrdk0isrqas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
